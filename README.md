@@ -29,7 +29,8 @@ where 1=1
 
 -- single line query
 
-select col1 from table_x where col3 'condition one';
+select col1 from table_x where col3 'condition one'
+;
 ```
 
 ## Joins
