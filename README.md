@@ -11,7 +11,7 @@ Consistent code style has many benefits.  Use this guide to keep SQL code neat, 
 * prefer listing fields than uisng `*`
 * use aliases even when there is only one table in the query - this makes joining more tables at a later time easier
 * single line queries only allowed where only one field is in `select` statement, no joins and only one condition in `where` statement.
-* fields in select statement as below
+* fields in select statements styled as below:
 
 ```sql
 -- This is a basic SQL query
